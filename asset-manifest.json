@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://oshea00.github.io/csb-oszlt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://oshea00.github.io/csb-oszlt/static/js/main.5185dc0f.chunk.js",
+    "main.js.map": "https://oshea00.github.io/csb-oszlt/static/js/main.5185dc0f.chunk.js.map",
+    "runtime-main.js": "https://oshea00.github.io/csb-oszlt/static/js/runtime-main.99ce8475.js",
+    "runtime-main.js.map": "https://oshea00.github.io/csb-oszlt/static/js/runtime-main.99ce8475.js.map",
+    "static/css/2.1ad56b46.chunk.css": "https://oshea00.github.io/csb-oszlt/static/css/2.1ad56b46.chunk.css",
+    "static/js/2.92900bab.chunk.js": "https://oshea00.github.io/csb-oszlt/static/js/2.92900bab.chunk.js",
+    "static/js/2.92900bab.chunk.js.map": "https://oshea00.github.io/csb-oszlt/static/js/2.92900bab.chunk.js.map",
+    "index.html": "https://oshea00.github.io/csb-oszlt/index.html",
+    "static/css/2.1ad56b46.chunk.css.map": "https://oshea00.github.io/csb-oszlt/static/css/2.1ad56b46.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://oshea00.github.io/csb-oszlt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.92900bab.chunk.js.LICENSE.txt": "https://oshea00.github.io/csb-oszlt/static/js/2.92900bab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ce8475.js",
+    "static/css/2.1ad56b46.chunk.css",
+    "static/js/2.92900bab.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5185dc0f.chunk.js"
+  ]
+}
